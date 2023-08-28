@@ -1,0 +1,22 @@
+    p{
+        font-family:Arial;
+        margin-top:0;
+        margin-bottom:0;
+    }
+    .user-name{
+       font-weight:bold; 
+    }
+    .handle{
+        color:rgb(100,100,100)
+    }
+    .note{
+        margin-top:7px;
+        width:500
+    }
+    .requirement{
+        margin-top:20px;
+    }
+    .link{
+        text-decoration: none;
+        color:rgb(61, 162, 224)
+    }
